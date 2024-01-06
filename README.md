@@ -1,6 +1,6 @@
-# BMI-Calculator
-
 # BMI Calculator
+
+[BMI Calculator](https://umar-ashraf09.github.io/BMI-Calculator/)
 
 Welcome to the BMI Calculator web page! This application helps you calculate your Body Mass Index (BMI) based on your weight and height.
 
@@ -11,11 +11,11 @@ Welcome to the BMI Calculator web page! This application helps you calculate you
 - [How to Use](#how-to-use)
 - [Design and Styling](#design-and-styling)
 - [Customization](#customization)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![BMI Calculator](https://github.com/Umar-Ashraf09/BMI-Calculator/assets/92431008/e5473941-5b02-458d-8938-b51930578151)
+
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ Welcome to the BMI Calculator web page! This application helps you calculate you
 
 ## How to Use
 
-1. Open the BMI Calculator web page.
+1. Open the [BMI Calculator](https://umar-ashraf09.github.io/BMI-Calculator/) web page.
 2. Adjust the weight and height sliders to your measurements.
 3. The BMI result and corresponding weight category will be displayed.
 4. The result color changes based on your weight category for easy interpretation.
@@ -37,7 +37,3 @@ The BMI Calculator features a clean and user-friendly design. The sliders allow 
 ## Customization
 
 Feel free to explore and modify the codebase based on HTML, CSS, and JavaScript. Customize the styling or enhance functionalities to suit your preferences.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
